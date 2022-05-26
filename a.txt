@@ -1,2 +1,3 @@
 system.outprintln("ola mundo");
-Autor isa
+
+string nome = "joao";
